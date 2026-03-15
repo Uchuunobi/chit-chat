@@ -1,4 +1,4 @@
-# any-chat
+# chit-chat
 
 A local AI chat application powered by Ollama, Node.js, PostgreSQL, and nginx.
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Starting any-chat setup..."
+echo "Starting chit-chat setup..."
 
 # Copy .env if it doesn't exist
 if [ ! -f .env ]; then
