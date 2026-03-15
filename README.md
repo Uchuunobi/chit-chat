@@ -29,8 +29,7 @@ Visit http://localhost:8080 after setup completes.
 - **Embeddings** — nomic-embed-text
 - **Database** — PostgreSQL 16 with pgvector
 
-### TL;DR
-
+## TL;DR
 "What makes these chatbots tick anyway?"
 
 Guess the next word. We ... just ... do ... this ... over ... and ... over.
