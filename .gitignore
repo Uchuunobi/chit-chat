@@ -1,0 +1,17 @@
+# Node
+server/node_modules/
+server/package-lock.json
+
+# Docker volumes
+postgres_data/
+
+# Environment
+.env
+.env.local
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
